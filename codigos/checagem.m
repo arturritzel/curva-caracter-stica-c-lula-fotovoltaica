@@ -4,7 +4,7 @@ function checagem % verifica se já possui todas as variáveis necessárias para
 
     if(entrada1 != -99 && entrada2 != -99 && entrada3 != -99 && entrada4 != -99)
 
-      spama2()
+      envia()
 
       entrada1 = -99;
       entrada2 = -99;
